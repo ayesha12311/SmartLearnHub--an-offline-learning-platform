@@ -84,16 +84,16 @@ Students connect to the local Wi-Fi network and access the learning portal direc
 ## Screenshots
 
 ### Student Dashboard
+![Student Dashboard](screenshots/Student%20dashboard.png)
 
-(Add screenshot here)
 
 ### Teacher Dashboard
+![Teacher Dashboard](screenshots/Teacher%20dashboard.png)
 
-(Add screenshot here)
 
-### Offline Wi-Fi Architecture
-
-(Add architecture image here)
+### Login and Raspberry pI 
+![Login Page](screenshots/Login%20page)
+![Raspberry Pi Setup](screenshots/Raspberry%20pi)
 
 ---
 
